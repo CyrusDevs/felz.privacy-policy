@@ -17,7 +17,8 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Discord](https://discord.com)
+
 
 **Log Data**
 
@@ -43,26 +44,26 @@ I may employ third-party companies and individuals due to the following reasons:
 
 I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-**Security**
+***Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+* I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-**Links to Other Sites**
+***Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+* This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Children’s Privacy**
+***Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+* These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
-**Changes to This Privacy Policy**
+***Changes to This Privacy Policy***
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+* I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2022-09-10
 
-**Contact Us**
+***Contact Us***
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ouuubacoo@gmail.com.
+* If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ouuubacoo@gmail.com.
 
-~ This privacy policy page was created at [Discord](https://discord.com) And created By Fahmi
+***This privacy policy page was created at [Discord](https://discord.com) And created By Fahmi***
