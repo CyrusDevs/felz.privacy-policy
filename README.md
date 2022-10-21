@@ -15,6 +15,6 @@ This privacy policy applies to the Discord bot Felz#3328.
 ---
 - Also see [Discord's Privacy Policy](https://discord.com/privacy).
 
-Thanks for using Felz!
+- Thanks for using Felz!
 
-[Homepage](/)
+- [Homepage](/)
