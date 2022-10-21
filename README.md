@@ -28,12 +28,13 @@ Well, But you can contact me & I will delete stored database of your server.
 If you are concerned about anything, you can contact me through any of the following:
 - [Email.](mailto:ouuubacoo@gmail.com)
 - [Discord.](https://discord.com/users/882371874120675379)
+- [Server.](https://discord.gg/VEpgPRSGCw)
 
- ![Discord](https://discord.c99.nl/widget/theme-3/882371874120675379.png)
+ ![Discord](https://discord.c99.nl/widget/theme-1/882371874120675379.png)
 
 ---
 
-*Make sure to read [Terms Of Service](https://github.com/Akito-Discord-Bot/Terms-Of-Service/blob/master/README.md) too* 
+*Make sure to read [Discord Terms Of Service](https://discord.com/tos) too* 
 
 ##### Changes Can Be Made Anytime.
-##### Last Update: 8th Oct, 2021..
+##### Last Update: 22th Oct, 2022..
