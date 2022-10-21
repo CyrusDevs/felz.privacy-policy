@@ -6,7 +6,7 @@ This privacy policy applies to the Discord bot Felz#3328.
 
 ---
 
-- By default, Felz does not store any data. If a server member with the Manage Server permission uses the `setprefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `398998849026261003`) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. Felz never stores data specific to users.
+- By default, Felz store data such as user id,  If a server member with the Manage Server permission uses the `setprefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `398998849026261003`) will be stored in the bot's database along with the provided prefix. No other data relating to the server is stored. Felz never stores data specific to users.
 
 - The prefix data is stored only for the bot to function and is not shared with anyone else or used for any other reason. The data is stored on Database.
 
