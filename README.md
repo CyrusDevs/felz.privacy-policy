@@ -1,20 +1,39 @@
-# Felz Privacy Policy
+# **[Privacy Policy of Felz Discord Bot](https://dsc.gg/felz)**
 
-Last updated and effective: October 21, 2022
-
-This privacy policy applies to the Discord bot Felz#3328.
+Felz is multipurpose discord bot, Best 24/7 Online
 
 ---
 
-- By default, Felz store data such as user id, message id, channel id, message, etc, If a server member with the Manage Server permission uses the `setprefix` command to change the bot's prefix, then the server's automatically-generated Discord ID (for example, `398998849026261003`) will be stored in the bot's database along with the provided prefix.
+## **What information is stored?**
 
-- The data is stored only for the bot for Security and is not shared with anyone else or used for any other reason. The data is stored on Database.
+Prefix, Message ID, Etc.
 
-- To contact me Fahmi, the developer of Felz, if you want the data to be removed or for any other reason, you can mention Fahmi#4167 (`882371874120675379`) in the official [Felz Discord Server](https://discord.gg/VEpgPRSGCw).
+## Why it is stored?
+We stored _**Prefix**_ If you type (`example F!help`) It will be directly saved to the database. If you type text with prefix it will auto saved to database.
+
+## How it is stored?
+We stored it use database.
+
+## Who can see my data?
+Since it is stored in database bot, no one can see it.
+
+## How can I delete my Data?
+Well, But you can contact me & I will delete stored database of your server.
+
 
 ---
-- Also see [Discord's Privacy Policy](https://discord.com/privacy).
 
-- Thanks for using Felz!
+## **Questions and Concerns.**
 
-- [Homepage](/)
+If you are concerned about anything, you can contact me through any of the following:
+- [Email.](mailto:ouuubacoo@gmail.com)
+- [Discord.](https://discord.com/users/882371874120675379)
+
+ ![Discord](https://discord.c99.nl/widget/theme-3/882371874120675379.png)
+
+---
+
+*Make sure to read [Terms Of Service](https://github.com/Akito-Discord-Bot/Terms-Of-Service/blob/master/README.md) too* 
+
+##### Changes Can Be Made Anytime.
+##### Last Update: 8th Oct, 2021..
